@@ -1,2 +1,3 @@
 openai==2.54.0
 dashscope==1.27.7
+transformers==5.17.0
