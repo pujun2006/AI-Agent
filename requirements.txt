@@ -5,3 +5,5 @@ datasets==5.0.1
 accelerate==1.15.0
 scikit-learn==1.7.2
 sentence_transformers==6.1.0
+langchain_core==1.6.6
+langchain_community==0.4.2
