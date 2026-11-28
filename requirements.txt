@@ -8,3 +8,4 @@ sentence_transformers==6.1.0
 langchain_core==1.6.6
 langchain_community==0.4.2
 pydantic==2.13.5
+apscheduler==3.11.3
